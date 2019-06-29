@@ -60,7 +60,7 @@ public class ImportCommandsActivity extends PrefsAdjustedActivity implements OnC
 			}
 		}
 
-		// TODO launch home Activity (with FLAG_ACTIVITY_CLEAR_TOP) here…
+		// TODO launch home Activity (with FLAG_ACTIVITY_CLEAR_TOP) here
 	}
 	
 	private void importData(String path) throws Exception
